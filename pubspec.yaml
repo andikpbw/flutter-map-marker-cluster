@@ -1,0 +1,46 @@
+name: map_marker_cluster
+description: >-
+  Modern, lightweight, customizable, and provider-agnostic map marker clustering
+  library for Flutter with smooth animations, spiderfy layouts, and spatial
+  hashing.
+version: 1.0.0
+homepage: https://humanize.id
+repository: https://github.com/andikpbw/flutter-map-marker-cluster
+issue_tracker: https://github.com/andikpbw/flutter-map-marker-cluster/issues
+funding:
+  - https://humanize.id
+
+topics:
+  - map
+  - markers
+  - cluster
+  - clustering
+  - flutter-ui
+
+screenshots:
+  - description: >-
+      Interactive animation demonstrating zoom clustering, smooth split and
+      merge transitions, spiderfy expansion, modern callout cards, and live
+      theme switching.
+    path: screenshots/demo.gif
+  - description: >-
+      Modern and dark neon map marker cluster themes with multi-tier badges and
+      pulsing halos.
+    path: screenshots/overview.png
+  - description: >-
+      Spiderfy radial expansion with curved legs and floating marker callout
+      card.
+    path: screenshots/spiderfy.png
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter

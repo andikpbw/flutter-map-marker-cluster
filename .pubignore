@@ -1,0 +1,15 @@
+# Exclude build outputs, caches, and local tooling from pub.dev archive
+.dart_tool/
+example/.dart_tool/
+build/
+example/build/
+doc/api/
+pubspec.lock
+example/pubspec.lock
+.github/
+.vscode/
+.idea/
+coverage/
+*.iml
+*.log
+.DS_Store

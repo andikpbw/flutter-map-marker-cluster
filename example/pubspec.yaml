@@ -1,0 +1,19 @@
+name: map_marker_cluster_example
+description: Interactive showcase application for the map_marker_cluster library.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  map_marker_cluster:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
