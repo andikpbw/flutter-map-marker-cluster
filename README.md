@@ -6,6 +6,10 @@
 [![Platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS%20%7C%20Web%20%7C%20macOS%20%7C%20Windows%20%7C%20Linux-7C3AED?style=flat-square)](https://pub.dev/packages/map_marker_cluster)
 [![Supported by Humanize AI](https://img.shields.io/badge/supported%20by-Humanize%20AI-EC4899?style=flat-square)](https://humanize.id)
 
+<p align="center">
+  <img src="screenshots/award_banner.png" alt="#1 Flutter Library — Modern &amp; Lightweight Map Marker Clustering (160/160 Pub Points, Zero Dependencies)" width="840" />
+</p>
+
 A **modern, lightweight, customizable, and provider-agnostic** map marker clustering library for Flutter — engineered with **zero third-party dependencies** and built purely on `package:flutter/widgets.dart` for full forward-compatibility with **Flutter 3.47–3.50+ / Dart 3.14+** (no deprecated `package:flutter/material.dart` imports).
 
 <p align="center">
